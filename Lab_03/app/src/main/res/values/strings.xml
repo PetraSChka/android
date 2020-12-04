@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="menu_addition">Addition</string>
+    <string name="menu_multiplication">Multiplication</string>
+    <string name="menu_division">Division</string>
+</resources>
